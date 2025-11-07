@@ -1,6 +1,6 @@
 <!-- Gullkhan-->
 ### Termux Terminal 
-"><img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/Termux.svg"></a>
+<img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/Termux.svg"></a>
 </p>
          
 </p>
