@@ -3,7 +3,7 @@
 <img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/Termux.svg"></a>
 </p>
          
-</p>
+
 A Termux banner refers to a custom, personalized message or graphic that appears every time the Termux terminal application is opened on an Android device. It's a way for users to customize their Termux environment and make it more visually appealing or informative.
 
 
