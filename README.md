@@ -29,9 +29,6 @@ echo -e " \e[1;32m  ░╚═════╝░░╚═════╝░╚═
 echo
 ```
 ### Next 
-<p align="center">
-  <img src="Gullkhan/logo3.png">
-</p>
 
 ```
 nano ~/.bashrc
@@ -61,3 +58,7 @@ ART
 echo -e "\e[0m"
 
 ```
+### Output 👇🏻
+<p align="center">
+  <img src="Gullkhan/logo3.png">
+</p>
