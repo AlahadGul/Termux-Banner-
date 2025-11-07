@@ -1,15 +1,16 @@
-<!-- Gullkhan-->
-### Termux Terminal  
+<!-- Gullkhan-->  
 
+<p align="right">
+  <a href="https://youtube.com/@gullkhan006" target="_blank"><img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/YouTube%20.svg"></a>
+</p>
+ 
  <p align="right">
   <a href="https://www.facebook.com/share/1Bm5RNA7Ya/" target="_blank"><img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/Facebook.svg"
-                                                                  
+                                     
+ ### Termux Terminal                                                                       
 A Termux banner refers to a custom, personalized message or graphic that appears every time the Termux terminal application is opened on an Android device. It's a way for users to customize their Termux environment and make it more visually appealing or informative.
 
 
-<p align="center">
-  <img src="Gullkhan/logo.png">
-</p>
 
 ```
 nano ~/.bashrc
