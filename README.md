@@ -7,7 +7,7 @@ __TYPE NAME__ :
 - Here type your name which you want to show in your terminal.
 
 ```
- #### Display ########################
+#### Display ########################
 
 echo -e "\e[0;37m" 
 clear
