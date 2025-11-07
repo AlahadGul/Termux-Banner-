@@ -1,7 +1,7 @@
 <!-- Gullkhan-->
 
 <p align="center">
-  <img src="Gullkhan/logo.png">
+  <img src="Gullkhan/logo3.png">
 </p>
 
 ```
