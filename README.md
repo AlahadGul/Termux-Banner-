@@ -1,71 +1,18 @@
 
 
-## What is a Bash shell scripting banner maker (especially in Termux)?
-
+## What is a Bash shell scripting.
 
 A Bash shell scripting banner maker is simply a script written in Bash (the Bourne Again Shell) that displays a custom banner — often ASCII art, text, or colorful info — when you open your terminal (like Termux or Linux terminal).
 
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
-</p>
+## REQUIREMENTS :  * internet
+## AVAILABLE ON :  * Termux 
+### TESTED ON   :  * Termux
 
-## AVAILABLE ON :
 
-* Termux
-
-### TESTED ON :
-
-* Termux
-
-### REQUIREMENTS :
-* internet
-* storage 400 MB
-
-## FEATURES :
-* [+] New interface !
-* [+] Updated maintainence !
-* [+] Attractive termux !
-* [+] Easy for Beginners !
-
-## INSTALLATION [Termux] :
-
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `pkg install python -y`
-* `pkg install python2 -y`
-* `pkg install git -y`
-* `pip install lolcat`
-* ` git clone https://github.com/noob-hackers/T-LOAD`
-* `cd $HOME`
-* `ls`
-* `cd T-LOAD`
-* `ls`
-* `bash t-load.sh`
-```
-[+]--Now make sue that you internet connection is on and after that the installation starts automatically
-[+]--After the installation succesfully completes you will see a THANKS text on screen after that a new text appears
-[+]--EXIT FROM TERMUX AFTER 5 SECONDS AND RE-OPEN IT after seeing this just exit from termux and re open it
-[+]--Now you can see a new loading screen of termux and you can feel real hacking terminal Sound+New interface with banner.
-[+]--Note:- Don't delete any of the audio files from your sdcard/internal storage or else you cannot feel the terminal startup sound
-```
-
-`To revert/to get back into normal termux mode use this commands`
-
-* `cd T-LOAD`
-* `ls`
-* `bash rvt.sh`
-
-## USAGE OPTIONS [Termux] :
 
 __TYPE NAME__ :
 - Here type your name which you want to show in your terminal.
 
-## SCREEN SHOTS [Termux]
-
-<br>
-<p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96587878-c1758c00-1297-11eb-86a5-dbcd006c3c0a.jpg"/>
-<img width="45%" src="https://user-images.githubusercontent.com/49580304/96587871-bd496e80-1297-11eb-9787-79c30482c9a6.jpg"/>
-</p>
 
 ## WATCH VIDEO [Termux]
 
