@@ -1,6 +1,9 @@
 <!-- Gullkhan-->
 ### Termux Terminal 
-<img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/Termux.svg"></a>
+<p align="center">
+  <img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/YouTube%20.svg">
+  <img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/Termux.svg">
+  <img
 </p>
          
 
