@@ -5,8 +5,7 @@
 
 <p align="center">
   <img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/YouTube%20.svg">
-  <img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/Facebook.svg">
-<a href="https://www.facebook.com/share/1Bm5RNA7Ya/" target="_blank"><img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/Facebook.svg"
+  <img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/Facebook.svg">href="https://www.facebook.com/share/1Bm5RNA7Ya/" target="_blank"><img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/Facebook.svg"
 A Termux banner refers to a custom, personalized message or graphic that appears every time the Termux terminal application is opened on an Android device. It's a way for users to customize their Termux environment and make it more visually appealing or informative.
 
 
