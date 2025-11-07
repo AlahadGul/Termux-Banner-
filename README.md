@@ -4,9 +4,8 @@
   <img src="Gullkhan/logo.png">
 </p>
 
-__TYPE NAME__ :
-- Here type your name which you want to show in your terminal.
-
+```
+nano ~/.bashrc
 ```
 #### Display ########################
 
