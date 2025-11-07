@@ -1,10 +1,6 @@
 <!-- Gullkhan-->
 
 <p align="center">
-  <img src="Gullkhan/logo2.png">
-</p>
-
-<p align="center">
   <img src="Gullkhan/logo.png">
 </p>
 
