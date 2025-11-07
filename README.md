@@ -1,7 +1,7 @@
 <!-- Gullkhan-->
 
 <p align="center">
-  <img src="Gullkhan/logo3.png">
+  <img src="Gullkhan/logo.png">
 </p>
 
 ```
@@ -22,7 +22,7 @@ echo -e " \e[1;32m  ░╚═════╝░░╚═════╝░╚═
 echo
 ```
 <p align="center">
-  <img src="Gullkhan/logo.png">
+  <img src="Gullkhan/logo3.png">
 </p>
 
 ```
