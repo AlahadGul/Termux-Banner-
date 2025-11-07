@@ -4,7 +4,7 @@
 
 A Bash shell scripting banner maker is simply a script written in Bash (the Bourne Again Shell) that displays a custom banner — often ASCII art, text, or colorful info — when you open your terminal (like Termux or Linux terminal).
 
-## REQUIREMENTS :  * internet
+## REQUIREMENTS   #internet
 ## AVAILABLE ON :  * Termux 
 ### TESTED ON   :  * Termux
 
