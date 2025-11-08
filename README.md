@@ -14,7 +14,7 @@ A Termux banner refers to a custom, personalized message or graphic that appears
 ```
 nano ~/.zshrc
 ```
-### Command For Kali Linux 
+### Command for Kali Linux 
 ```
 nano ~/.bashrc
 ```
