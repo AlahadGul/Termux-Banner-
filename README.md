@@ -40,9 +40,15 @@ echo
 
 ### Next 
 
+### Command for Termux 
+```
+nano ~/.zshrc
+```
+### Command for Kali Linux 
 ```
 nano ~/.bashrc
 ```
+### Copy this code 
 ```
 echo -e "\e[1;32m"   # Green color
 cat <<'ART'
