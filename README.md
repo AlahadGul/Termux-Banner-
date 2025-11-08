@@ -39,8 +39,6 @@ echo
 </p>
 
 ### Next 
-
-### Copy this code 
 ```
 echo -e "\e[1;32m"   # Green color
 cat <<'ART'
