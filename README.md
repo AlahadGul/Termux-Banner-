@@ -18,6 +18,7 @@ nano ~/.zshrc
 ```
 nano ~/.bashrc
 ```
+### Copy this code 
 ```
 #### Display ########################
 
