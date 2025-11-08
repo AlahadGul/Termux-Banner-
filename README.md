@@ -10,11 +10,11 @@ A Termux banner refers to a custom, personalized message or graphic that appears
   <a         href="https://youtube.com/@gullkhan006" target="_blank"><img src="https://github.com/AlahadGul/Termux-Banner-/blob/main/Gullkhan/YouTube%20.svg"></a>
   </p>
 
-Command for Termux 
+### Command for Termux 
 ```
 nano ~/.zshrc
 ```
-Command For Kali Linux 
+### Command For Kali Linux 
 ```
 nano ~/.bashrc
 ```
