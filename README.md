@@ -61,14 +61,5 @@ echo -e "\e[0m"
 <p align="center">
   <img src="Gullkhan/logo3.png">
 </p>
+
 ### Next 
-### Command for Termux 
-```
-nano ~/.bashrc
-```
-### Command for Kali Linux 
-```
-nano ~/.zshrc
-```
-### 
-```
