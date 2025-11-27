@@ -97,6 +97,7 @@ done
 echo -e "\e[32m✨ Flicker Finished — Welcome back, Hacker! 😎\e[0m"
 ```
 ### Output 👇🏻
+<h3 align="center"><i>:: Workflow ::</i></h3>
 <p align="center">
-  <a href="Gullkhan/video.mp4">
-    <img src="Gullkhan/kali"
+<img src="Gullkhan/Kali.gif"/>
+</p>
