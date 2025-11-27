@@ -96,4 +96,7 @@ EOF
 done
 echo -e "\e[32m✨ Flicker Finished — Welcome back, Hacker! 😎\e[0m"
 ```
-
+### Output 👇🏻
+<p align="center">
+  <img src="Gullkhan/">
+</p>
