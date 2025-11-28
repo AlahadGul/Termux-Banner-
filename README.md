@@ -5,11 +5,11 @@ A Termux banner refers to a custom, personalized message or graphic that appears
 
 ### Command for Termux 
 ```
-nano ~/.zshrc
+nano ~/.bashrc
 ```
 ### Command for Kali Linux 
 ```
-nano ~/.bashrc
+nano ~/.zshrc
 ```
 ### 
 ```
